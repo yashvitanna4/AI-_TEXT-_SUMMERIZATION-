@@ -2,3 +2,4 @@ streamlit
 transformers
 torch
 accelerate  # Helps with pipeline models
+transformers==4.41.2
